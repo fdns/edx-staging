@@ -16,3 +16,4 @@
 -e git+https://github.com/eol-uchile/eol_completion@e6d5c6eaa62353b9211a69d8e596902f0d3a7ffa#egg=eol_completion
 fluent-logger==0.9.3
 python-json-logger==0.1.11
+django-debug-toolbar==1.8

@@ -1,5 +1,5 @@
 [submodule "themes/eol-uchile-theme"]
-	path = themes/eol-uchile-theme
+	path = themes/eol-uchile
 	url = https://github.com/eol-uchile/eol-uchile-theme
 [submodule "themes/cmm-openedx"]
 	path = themes/cmm-openedx
