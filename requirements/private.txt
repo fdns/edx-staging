@@ -14,6 +14,8 @@
 -e git+https://github.com/eol-uchile/eol_feedback@cab2109007bb52340b90d595cefad25d1f08f8e8#egg=eol_feedback
 -e git+https://github.com/Jromo/free-text-response-modificado@f55ae73ad35191b92fdfd5bcc897d911cddb86a4#egg=xblock-free-text-response
 -e git+https://github.com/eol-uchile/eol_completion@e6d5c6eaa62353b9211a69d8e596902f0d3a7ffa#egg=eol_completion
+-e git+https://github.com/eol-uchile/uchileedxlogin@efcedcf2ba325db047a53d62725c3d27b40cf97f#egg=uchileedxlogin
+
 fluent-logger==0.9.3
 python-json-logger==0.1.11
 django-debug-toolbar==1.8
