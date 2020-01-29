@@ -6,16 +6,16 @@
 -e git+https://github.com/eol-uchile/ubcpi.git@51403a169035aa8208bdd5aa0c7b339b319901d5#egg=ubcpi-xblock
 -e git+https://github.com/eol-uchile/eol-container-xblock.git@df021a7cfee7b969e525a898fe421c733fb3afa8#egg=eolcontainer-xblock
 -e git+https://github.com/eol-uchile/eol-conditional-xblock.git@a540616b5e5210d424abca59bedfa826e87c798a#egg=eolconditional-xblock
--e git+https://github.com/eol-uchile/eol-question-xblock.git@43d03a8cfd8cd4087b647587d5991f48357fb8c9#egg=eolquestion-xblock
+-e git+https://github.com/eol-uchile/eol-question-xblock.git@2a3adf511642817f2d44bd65f8d09f00f9a4cfab#egg=eolquestion-xblock
 -e git+https://github.com/eol-uchile/eol-dialogs-xblock.git@8b6e9b3db4cdad72114f33d2c4e7caeb57652994#egg=eoldialogs-xblock
 -e git+https://github.com/eol-uchile/eol-vof-xblock.git@d8cc620fdc1ebd80d35ce4cdc5edc48246fcb53e#egg=vof-xblock
 -e git+https://github.com/eol-uchile/eol-dialogs-question-xblock@02eb5a1c7e8a029a48c32259a31aaf106391b3a8#egg=dialogsquestionsxblock-xblock
 -e git+https://github.com/eol-uchile/eol-persistent-tab-xblock@b8a87f33e844f6b6a85c3b0d77f6ff401bc6b73c#egg=eolpersistenttab-xblock
 -e git+https://github.com/eol-uchile/eol_feedback@cab2109007bb52340b90d595cefad25d1f08f8e8#egg=eol_feedback
--e git+https://github.com/Jromo/free-text-response-modificado@f55ae73ad35191b92fdfd5bcc897d911cddb86a4#egg=xblock-free-text-response
+-e git+https://github.com/Jromo/free-text-response-modificado@1434cef2a5fa7b55dbd1d511bec6aa2c6a335dde#egg=xblock-free-text-response
 -e git+https://github.com/eol-uchile/eol_completion@587766168d87b1d3db9c43c4bc1a47c6ad3a2757#egg=eol_completion
 -e git+https://github.com/eol-uchile/uchileedxlogin@7bfd0e02ec0604fedac075a8cd9ccd14499a11ef#egg=uchileedxlogin
-
+-e git+https://github.com/Jromo/xblock-drag-and-drop-v2@eacf258bdce11702a66e05555cc83bcd0ea0c416#egg=xblock-drag-and-drop-v2
 fluent-logger==0.9.3
 python-json-logger==0.1.11
 django-debug-toolbar==1.8
