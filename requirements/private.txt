@@ -16,7 +16,7 @@
 -e git+https://github.com/eol-uchile/eol_completion@0f41bdde40e2926cc8a466801339f895e6983dee#egg=eol_completion
 -e git+https://github.com/eol-uchile/uchileedxlogin@2e9c258ac264405802e1603e28c6ea7b388debed#egg=uchileedxlogin
 -e git+https://github.com/Jromo/xblock-drag-and-drop-v2@eacf258bdce11702a66e05555cc83bcd0ea0c416#egg=xblock-drag-and-drop-v2
--e git+https://github.com/eol-uchile/eol-zoom-xblock@3bb6c87c82bf001992b7b647c619fde09cbc91e2#egg=eolzoom-xblock
+-e git+https://github.com/eol-uchile/eol-zoom-xblock@4fac3b91a6da94bbc774e401bf033459de5dbc4b#egg=eolzoom-xblock
 -e git+https://github.com/eol-uchile/eol_list_grade@3ae7ea8daa31d6234a7f8e77cd515f5ab5cf208f#egg=eollistgrade-xblock
 -e git+https://github.com/eol-uchile/eol_contact_form@db8efa178d712c2bfe74847bbf243b318dfc3570#egg=eol_contact_form
 -e git+https://github.com/eol-uchile/eol_timify_xblock@1c78f236bb88ee57b109e2c870af4ca51c62852b#egg=eoltimify
