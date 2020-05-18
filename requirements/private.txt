@@ -19,6 +19,7 @@
 -e git+https://github.com/eol-uchile/eol-zoom-xblock@48a30196cd96aac4eefd2c0ad348c341de268ec0#egg=eolzoom-xblock
 -e git+https://github.com/eol-uchile/eol_list_grade@3ae7ea8daa31d6234a7f8e77cd515f5ab5cf208f#egg=eollistgrade-xblock
 -e git+https://github.com/eol-uchile/eol_contact_form@db8efa178d712c2bfe74847bbf243b318dfc3570#egg=eol_contact_form
+-e git+https://github.com/eol-uchile/eol_timify_xblock@68a89779f4489ebccf158aaaab81444b476a5485#egg=eoltimify
 fluent-logger==0.9.6
 python-json-logger==0.1.11
 django-debug-toolbar==1.8
