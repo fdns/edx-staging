@@ -17,13 +17,13 @@ jobs:
         run: git submodule update --init --recursive
 
       - name: Build Open edX
-        run: docker build . --file ./Dockerfile --tag eoluchile/edx-staging:${GITHUB_SHA} --tag eoluchile/edx-staging:latest
+        run: docker build . --file ./Dockerfile --tag eoluchile/edx-staging:${GITHUB_SHA} --tag eoluchile/edx-staging:juniper
 
       - name: Push
         run: |
           echo "${DOCKERHUB_PASSWORD}" | docker login --username ${DOCKERHUB_USER} --password-stdin
           docker push eoluchile/edx-staging:${GITHUB_SHA}
-          docker push eoluchile/edx-staging:latest
+          docker push eoluchile/edx-staging:juniper
         env:
           DOCKERHUB_USER: ${{ secrets.DOCKERHUB_USER }}
           DOCKERHUB_PASSWORD: ${{ secrets.DOCKERHUB_PASSWORD }}
