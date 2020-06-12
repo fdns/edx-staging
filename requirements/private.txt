@@ -1,5 +1,5 @@
 -e git+https://github.com/fdns/edx-sga@a693c075195955c94130b91c6791e8d8443e65ca#egg=edx-sga
--e git+https://github.com/fdns/edx-ora2.git@73c9c2de1cfaaaa822f32feb3b524de15ae09af4#egg=ora2
+-e git+https://github.com/eol-uchile/edx-ora2.git@73c9c2de1cfaaaa822f32feb3b524de15ae09af4#egg=ora2
 
 fluent-logger==0.9.6
 python-json-logger==0.1.11
