@@ -2,6 +2,7 @@
 -e git+https://github.com/eol-uchile/edx-ora2.git@73c9c2de1cfaaaa822f32feb3b524de15ae09af4#egg=ora2
 -e git+https://github.com/eol-uchile/eol-container-xblock.git@eb1e28dc0b58c6f391e7bb001296e690444f53e3#egg=eolcontainer-xblock
 -e git+https://github.com/eol-uchile/eol-conditional-xblock.git@7486a037b17be21adcbe2c3c4249033fee633ce1#egg=eolconditional-xblock
+-e git+https://github.com/eol-uchile/ubcpi@4938eda04cd42bd988744e493ef7833ddc5f8577#egg=ubcpi
 
 fluent-logger==0.9.6
 python-json-logger==0.1.11
