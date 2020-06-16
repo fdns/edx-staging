@@ -7,6 +7,7 @@
 -e git+https://github.com/eol-uchile/eol-dialogs-question-xblock@a711575e15718d184923375dfa7d645e4593e073#egg=dialogsquestionsxblock-xblock
 -e git+https://github.com/eol-uchile/ubcpi@4938eda04cd42bd988744e493ef7833ddc5f8577#egg=ubcpi
 -e git+https://github.com/eol-uchile/edx_xblock_scorm@1e7b764b1a2b2a94abdac47eaa0a6afa6f4e556f#egg=scormxblock
+-e git+https://github.com/eol-uchile/xblock-drag-and-drop-v2@58d8a691cf9210220925f3d2957b39a377f6704c#egg=xblock-drag-and-drop-v2
 -e git+https://github.com/Stanford-Online/xblock-in-video-quiz@93624bd04a4b613ae53794fd97333192a606aaa8#egg=xblock_in_video_quiz
 
 fluent-logger==0.9.6
