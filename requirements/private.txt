@@ -1,7 +1,8 @@
 -e git+https://github.com/fdns/edx-sga@a693c075195955c94130b91c6791e8d8443e65ca#egg=edx-sga
 -e git+https://github.com/eol-uchile/edx-ora2.git@73c9c2de1cfaaaa822f32feb3b524de15ae09af4#egg=ora2
 -e git+https://github.com/eol-uchile/eol-container-xblock.git@eb1e28dc0b58c6f391e7bb001296e690444f53e3#egg=eolcontainer-xblock
--e git+https://github.com/eol-uchile/eol-conditional-xblock.git@7486a037b17be21adcbe2c3c4249033fee633ce1#egg=eolconditional-xblock
+-e git+https://github.com/eol-uchile/eol-conditional-xblock.git@d8779b22771f28c3ca825b3bfaf0d9f328c50e38#egg=eolconditional-xblock
+-e git+https://github.com/eol-uchile/eol-question-xblock.git@f1cb3d5ff23b36b73037dffec2a1d004d9ac287a#egg=eolquestion-xblock
 -e git+https://github.com/eol-uchile/ubcpi@4938eda04cd42bd988744e493ef7833ddc5f8577#egg=ubcpi
 -e git+https://github.com/Stanford-Online/xblock-in-video-quiz@93624bd04a4b613ae53794fd97333192a606aaa8#egg=xblock_in_video_quiz
 
