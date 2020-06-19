@@ -8,6 +8,8 @@
 -e git+https://github.com/eol-uchile/eol-vof-xblock.git@b7e230504b5b53ba1382982eca37f3adb05807ca#egg=vof-xblock
 -e git+https://github.com/eol-uchile/eol-persistent-tab-xblock@78b26270fe729b3d1f7c94b66b46052a02043dfa#egg=eolpersistenttab-xblock
 -e git+https://github.com/eol-uchile/eol_feedback@9535e49cd6c859a8e65484ba59698b2e5e95fd25#egg=eol_feedback
+-e git+https://github.com/eol-uchile/eol-zoom-xblock@6aa8822a2ae61f50729e1b02494020128700aa3d#egg=eolzoom-xblock
+-e git+https://github.com/eol-uchile/eol_contact_form@a278d49c77d91a2799892d422d53df52e10b78ed#egg=eol_contact_form
 -e git+https://github.com/eol-uchile/ubcpi@4938eda04cd42bd988744e493ef7833ddc5f8577#egg=ubcpi
 -e git+https://github.com/eol-uchile/edx_xblock_scorm@1e7b764b1a2b2a94abdac47eaa0a6afa6f4e556f#egg=scormxblock
 -e git+https://github.com/eol-uchile/xblock-drag-and-drop-v2@58d8a691cf9210220925f3d2957b39a377f6704c#egg=xblock-drag-and-drop-v2
@@ -16,6 +18,8 @@
 -e git+https://github.com/eol-uchile/free-text-response@93128c8f3379f98be591901d376c28f53384a85b#egg=free-text-response
 -e git+https://github.com/eol-uchile/edx-ucursos@0d6962d56c2b2c92e4576dba87c3b692e8098792#egg=edx-ucursos
 -e git+https://github.com/eol-uchile/edx-userdata@3f9e1d5736d681d2e7bdbe1319d5369d2480d41e#egg=edx-userdata
+-e git+https://github.com/eol-uchile/eol_completion@a7c9560eb1c96c548153f88f78249bf905284f8a#egg=eol_completion
+-e git+https://github.com/eol-uchile/eol_list_grade@af49c222f3e39e64d77637bcf182aedc2a3e8ecc#egg=eol_list_grade
 -e git+https://github.com/Stanford-Online/xblock-in-video-quiz@93624bd04a4b613ae53794fd97333192a606aaa8#egg=xblock_in_video_quiz
 
 fluent-logger==0.9.6
