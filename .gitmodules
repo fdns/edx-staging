@@ -16,3 +16,6 @@
 [submodule "themes/edx-uabierta"]
 	path = themes/edx-uabierta
 	url = https://github.com/eol-uchile/uabierta-theme
+[submodule "themes/eduabierta"]
+	path = themes/eduabierta
+	url = https://github.com/eol-uchile/eduabierta_theme
