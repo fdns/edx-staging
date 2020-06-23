@@ -18,7 +18,7 @@
 -e git+https://github.com/eol-uchile/free-text-response@93128c8f3379f98be591901d376c28f53384a85b#egg=free-text-response
 -e git+https://github.com/eol-uchile/edx-ucursos@0d6962d56c2b2c92e4576dba87c3b692e8098792#egg=edx-ucursos
 -e git+https://github.com/eol-uchile/edx-userdata@3f9e1d5736d681d2e7bdbe1319d5369d2480d41e#egg=edx-userdata
--e git+https://github.com/eol-uchile/eol_completion@a7c9560eb1c96c548153f88f78249bf905284f8a#egg=eol_completion
+-e git+https://github.com/eol-uchile/eol_completion@90a0c1274c83118bbd52caecfba2b46834406dbc#egg=eol_completion
 -e git+https://github.com/eol-uchile/eol_list_grade@af49c222f3e39e64d77637bcf182aedc2a3e8ecc#egg=eol_list_grade
 -e git+https://github.com/Stanford-Online/xblock-in-video-quiz@93624bd04a4b613ae53794fd97333192a606aaa8#egg=xblock_in_video_quiz
 
