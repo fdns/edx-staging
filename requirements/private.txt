@@ -22,7 +22,7 @@
 -e git+https://github.com/eol-uchile/eol_list_grade@af49c222f3e39e64d77637bcf182aedc2a3e8ecc#egg=eol_list_grade
 -e git+https://github.com/Stanford-Online/xblock-in-video-quiz@93624bd04a4b613ae53794fd97333192a606aaa8#egg=xblock_in_video_quiz
 -e git+https://github.com/eol-uchile/openedx-scorm-xblock@f68f21b1ba8de7d20c30525701bf4b7a5c274d1e#egg=openedx-scorm-xblock
-
+-e git+https://github.com/eol-uchile/edx-newsletters@d3e35e64fe4efe2303f5e7b91462622bf26659fe#egg=edx-newsletters
 fluent-logger==0.9.6
 python-json-logger==0.1.11
 django-debug-toolbar==2.2
